@@ -1,0 +1,10 @@
+
+{"Dialog_name":"Messages","DialogID":1,"Dialog_members":[{"Name":"IGOR","ID":1},{"Name":"VALERA","ID":2}]}
+{"Dialog_name":"Messages","DialogID":1,"Dialog_members":[{"Name":"IGOR","ID":1},{"Name":"VALERA","ID":2}]}
+{"Dialog_name":"Messages","DialogID":1,"Dialog_members":[{"Name":"IGOR","ID":1},{"Name":"VALERA","ID":2}]}
+{"Dialog_name":"Messages","DialogID":1,"Dialog_members":[{"Name":"IGOR","ID":1},{"Name":"VALERA","ID":2}]}
+{"Dialog_name":"Messages","DialogID":1,"Dialog_members":[{"Name":"IGOR","ID":1},{"Name":"VALERA","ID":2}]}
+{"Dialog_name":"Messages","DialogID":1,"Dialog_members":[{"Name":"IGOR","ID":1},{"Name":"VALERA","ID":2}]}
+{"Dialog_name":"Messages","DialogID":1,"Dialog_members":[{"Name":"IGOR","ID":1},{"Name":"VALERA","ID":2}]}
+{"Dialog_name":"Messages","DialogID":1,"Dialog_members":[{"Name":"IGOR","ID":1},{"Name":"VALERA","ID":2}]}
+{"Dialog_name":"Messages","DialogID":1,"Dialog_members":[{"Name":"IGOR","ID":1},{"Name":"VALERA","ID":2}]}
